@@ -1,7 +1,5 @@
 /*
-Name: Prangon Ghose (SBU ID: 111623211)
-CSE 114 | Prof. Tripathi
-Lab Section L05
+@author Prangon Ghose
 
 Purpose: This program is the Connect 4 game implemented
 with the console and classes in Java.
