@@ -7,7 +7,7 @@ class Disk:
   # variables for disk
   row = 0
   column = 0
-  color = ""
+  color = " "
 
   # initialize Disk object
   def __init__(self, color, row, column):
